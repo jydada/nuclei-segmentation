@@ -1,2 +1,2 @@
-# image-classification
-medical image classification
+# nuclei-segmentation
+medical image analysis
